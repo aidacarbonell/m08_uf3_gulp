@@ -56,7 +56,7 @@ A la documentació de cada plugin explica el seu funcionament
 
 ## Exercici:
 - Explora la documentació de gulp i els seus plugins.
-- Has de triar 5 plugins (els que vulguis, i creguis útils) i fer un exemple pràctic de cada un d'ells.
+- Has de triar 5 plugins (els que vulguis) i fer un exemple pràctic de cada un d'ells.
 - Per cada plugin escriu dues línies sobre la seva funció, i per cada exercici explicar que fa
 
 En un mateix exemple pots utilitzar més d'un plugin
@@ -66,3 +66,7 @@ No cal que siguin els exemples de la documentació, ja que en aquesta a vegades 
 Els exemples que entregueu han de funcionar
 
 Adjunto un exemple de com s'hauria de fer, podeu utilitzar els plugins que hi surten, però treballeu-vos-ho una mica i que l'exemple no sigui idèntic al que us mostro.
+
+Podeu trobar pluguins a:
+[GulpJs](https://gulpjs.com/)
+[Npm.js](https://www.npmjs.com/)
